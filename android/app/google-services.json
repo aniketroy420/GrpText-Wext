@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "206774721136",
+    "project_id": "flutter-chat-app-d6c11",
+    "storage_bucket": "flutter-chat-app-d6c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206774721136:android:ba26cd9583a26ad0b272b5",
+        "android_client_info": {
+          "package_name": "com.example.gappe_marro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206774721136-otj5n088f1vi4evd85pi1j7ii0f4f4sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoEPDB2Oi8qQzt3LEApJMwPmB3CVls74o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206774721136-otj5n088f1vi4evd85pi1j7ii0f4f4sq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206774721136-a7f74302lon8a4h6aan3m19kq0rjdro8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gappeMarro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
